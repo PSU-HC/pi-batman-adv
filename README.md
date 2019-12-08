@@ -1,5 +1,10 @@
 # Decentralized Video Monitoring over a Pi 'Zero W' Mesh Network
 
+_ _ _
+***README yet to be updated with Makerspace-specific formatting*** 
+_ _ _
+     
+     
 *Using motioneye video clients on Raspbian & a BATMAN-adv Ad-Hoc network*
 
 [link: motioneyeos](https://github.com/ccrisan/motioneyeos/wiki)   
